@@ -1,2 +1,3 @@
+## Download this file from github and attach this file in this project 
 data = pd.read_csv('https://raw.githubusercontent.com/adil200/Medical-Diagnoser/main/medical_data.csv')
 data.head()
