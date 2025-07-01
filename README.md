@@ -14,7 +14,7 @@ This project builds a deep learning model to predict diseases and their correspo
 - `predict.py`: Script to make a prediction
 - `models/`: Trained model files
 - `notebooks/`: Jupyter notebooks (optional)
-- `data/`: (optional) contains the dataset . Download this file from  github and attach this file in the project .
+- `data/`: (optional) contains the dataset . Download this file from  github and attach this file in the project . https://raw.githubusercontent.com/adil200/Medical-Diagnoser/main/medical_data.csv
 
 ## 🛠️ Usage
 
